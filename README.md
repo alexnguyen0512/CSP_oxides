@@ -1,2 +1,2 @@
-# dunia
+# CSP oxides
  CSP for trimetallic oxides
